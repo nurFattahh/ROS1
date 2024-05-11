@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/koding/humanoid/catkin_ws_ros1/install
+
+Name: my_provider
+Description: Description of my_provider
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

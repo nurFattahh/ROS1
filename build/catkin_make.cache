@@ -1,0 +1,2 @@
+my_provider
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/koding/humanoid/catkin_ws_ros1/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/koding/humanoid/catkin_ws_ros1/install -G Unix Makefiles
